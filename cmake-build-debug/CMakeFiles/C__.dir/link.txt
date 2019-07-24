@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/C__.dir/main.cpp.o CMakeFiles/C__.dir/stockcovrank.cpp.o  -o C__ /usr/lib/libarmadillo.so 

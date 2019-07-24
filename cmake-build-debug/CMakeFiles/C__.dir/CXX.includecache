@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shuhao/Desktop/files/2/C++/stockcovrank.cpp
+stockcovrank.h
+/home/shuhao/Desktop/files/2/C++/stockcovrank.h
+sys/types.h
+-
+dirent.h
+-
+string
+-
+fstream
+-
+vector
+-
+random
+-
+algorithm
+-
+iterator
+-
+bits/stdc++.h
+-
+iostream
+-
+armadillo
+-
+
+/home/shuhao/Desktop/files/2/C++/stockcovrank.h
+string
+-
+vector
+-
+
